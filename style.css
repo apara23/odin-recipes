@@ -1,0 +1,15 @@
+.heading1 {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(0, 91, 189);
+    font-weight: bold;
+}
+
+p ul li{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(24, 24, 24);
+ }
+
+.link {    
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bold;
+}
